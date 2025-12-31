@@ -162,9 +162,9 @@ Properly configured guest user access:
 ## Related Projects
 
 Check out my other Experience Cloud solutions:
-- [Renewal Navigator](../custom-lwc-redesigning) - Advanced LWC dashboard
-- [Contractor Management System](../contractor-management-system) - LWC with document management
-- [AI-Powered Case Summary](../ai-case-summary) - Einstein AI integration
+- [Renewal Navigator](https://github.com/Mutahar1/custom-lwc-redesigning) - Advanced LWC dashboard
+- [Contractor Management System](https://github.com/Mutahar1/contractor-management-system) - LWC with document management
+- [AI-Powered Case Summary](https://github.com/Mutahar1/agentforce-ai-case-summary) - Einstein AI integration
 
 ---
 
