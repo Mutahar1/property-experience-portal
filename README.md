@@ -176,6 +176,6 @@ Check out my other Experience Cloud solutions:
 
 ---
 
-Built with by Mutahar | Senior Salesforce Developer
+Built by Mutahar | Senior Salesforce Developer
 
 </div>
